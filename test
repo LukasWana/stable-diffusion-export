@@ -1,4 +1,6 @@
-Použití aplikace DALL-E (stable-diffusion)
+https://lexica.art/
+
+Použití aplikace AI stable-diffusion
 
 Řízení atributů
 Kreslení více objektů
@@ -28,6 +30,15 @@ modern style illustration, woman on table looking to, dancing computer on the fl
 3d people - human character with magnifier and footprints . 3d render illustration
 
 concept art   alien entity with shaved chicken head,  behind is ufo plane
+
+the city of cape town as a martian colony artist's conception landscape painting
+
+girl with long hair, instagram photo, kodak, portra, by wlop, ilya kuvshinov, krenz, cushart, pixiv, zbrush sculpt, octane render, houdini, vfx, cinematic atmosphere, 8 k, 4 k 6 0 fps, unreal engine 5, ultra detailed, ultra realistic
+
+Anime girl flying in highly detailed japanese city, studio ghibli style, by hayao miyazaki, sharp focus, highly detailed, 4k
+
+Realistic bear playing futuristic minimalistic axe-shaped guitar, fantasy character portrait by greg rutkowski, craig mullins, gaston bussiere
+
 
 Bob Ross painting a happy little tree.
 
@@ -81,3 +92,29 @@ RuntimeError: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 6.00 GiB t
 5.21 GiB already allocated; 0 bytes free; 5.34 GiB reserved in total by PyTorch)
 If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.
 
+
+
+## Snehurka
+A fair princess indeed, Snow White was named for the colour of her skin, which was white as snow, hair as black as ebony, and lips as red as a rose. Her father, having lost his wife, married again, and this new queen was as beautiful as she was proud. She would often consult her mirror and ask “Mirror Mirror, on the wall; Who is the fairest of them all?”
+
+As Snow White began to grow, she became more and more beautiful, and the queen’s magic mirror soon began to say so. Enraged and filled with jealousy, the queen sent a huntsman to kill Snow White and bring her her heart.
+
+The Huntsman, pitying the innocent Snow White, told her to run away and never come back. He, instead, delivered to the queen the heart of a pig. When the queen consulted her mirror and found that she had been tricked, she determined to kill Snow White herself and so began to prepare her poisoned apple.
+
+Snow White, in the meantime, found a place with seven dwarfs, whom she lived with and cared for. One day, when they were at work in the mines, the queen went to see Snow White, disguised as an old peasant woman selling apples. Snow White was convinced to take a bite out of the apple and instantly fell down, as if dead. When the dwarfs found her, they were distraught and laid her in a glass coffin.
+
+One day, as a prince was passing by, he noticed the dwarfs mourning over a beautiful sleeping girl (for she remained as beautiful as she ever was) and was mesmerised by her beauty. He kissed her hand to bid her farewell, and at that moment, the apple dislodged itself, and Snow White opened her eyes. The prince was so happy that he asked for her hand in marriage and she accepted. There was a grand celebration, and they lived and reigned happily together. The evil queen became sick from her envy and eventually died.
+
+We must always remember, from the fate of the queen, that if you lust after physical beauty, you will, indeed lose your peace, and be quite unhappy when you are not considered the most beautiful. On the contrary, kindness and gentleness win the hearts of many.
+
+## Popelka
+The story of Cinderella tells of a kindhearted young woman who was treated cruelly by her stepmother and sisters, but, never the less, kept a humble attitude.
+
+One day, the king decided to throw a ball and invited all the young maidens in the kingdom. While Cinderella’s sisters made her help them get ready for the ball, not once did they ask her if she would like to go with them.
+
+Once they left, her Fairy Godmother appeared and helped Cinderella go to the ball with a bit of magic that would only last until midnight. At the ball, Cinderella caught the eye of the prince, as she was the most beautiful girl there, and they danced all night.
+
+When midnight came, Cinderella had to leave the ball, and in her hurry, one of her glass slippers fell off her feet. The prince found this slipper and vowed to marry the girl who the slipper belonged to.
+
+The prince went from house to house, looking for the girl who’s foot fit the slipper, and he reached Cinderella’s house. Though Cinderella’s stepsisters and stepmother tried to keep her from trying it on, the glass slipper was a perfect fit, and she was soon married to the prince and lived happily ever after.
+This is a wonderful story that captures how keeping a humble attitude will reap its rewards.

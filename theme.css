@@ -1,0 +1,29 @@
+
+
+    light: {
+      colors: {
+        primary: '#DE203D',
+        secondary: '#19232E',
+        accent: '#2981a3',
+        positive: '#0D7D00',
+        negative: '#D40000',
+        info: '#F9CF81',
+        warning: '#EFAC34',
+        dark: '#E9EBED',
+        light: '#333333',
+      }
+    }
+
+    dark: {
+      colors: {
+        primary: '#DE203D',
+        secondary: '#19232E',
+        accent: '#39AFDE',
+        positive: '#0D7D00',
+        negative: '#D40000',
+        info: '#F9CF81',
+        warning: '#EFAC34',
+        dark: '#333333',
+        light: '#E9EBED',
+      }
+    }
