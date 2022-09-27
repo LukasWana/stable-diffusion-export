@@ -1,0 +1,10 @@
+napoleon bonaparte selfie from the French Revolution, real photo, War Photography
+Width: 512
+Height: 512
+Seed: 6379357
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms

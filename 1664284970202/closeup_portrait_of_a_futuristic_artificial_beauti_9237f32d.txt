@@ -1,0 +1,10 @@
+closeup portrait of a futuristic artificial beautiful ant cyborg woman, ant features, antennae, circuits visible, striking big eyes, ant patterns, detailed patterns on skin, intricate filigree lace, fantasy, intricate, art nouveau, swirly intricate background octane render hyperrealistic, + 4k + uhd + 3d + octane render + cinematic
+Width: 512
+Height: 768
+Seed: 8086186
+Steps: 50
+Guidance Scale: 6.4
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: ddim

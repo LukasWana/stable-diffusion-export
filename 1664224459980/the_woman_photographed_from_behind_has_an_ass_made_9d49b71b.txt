@@ -1,0 +1,10 @@
+the woman photographed from behind has an ass made from a baguette,  studio photo, from pulp fiction movie
+Width: 768
+Height: 512
+Seed: 9128539
+Steps: 50
+Guidance Scale: 50.0
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: euler_a

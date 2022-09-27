@@ -1,0 +1,10 @@
+phone exploded into small cubes. 
+Width: 1024
+Height: 512
+Seed: 6303159
+Steps: 64
+Guidance Scale: 26.7
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms

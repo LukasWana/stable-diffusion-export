@@ -1,0 +1,10 @@
+a photograph of car, car body made of thousands of screws, car standing on abandoned road, Realistic, Dynamic Lighting, Warm Color Palette
+Width: 512
+Height: 512
+Seed: 8250378
+Steps: 100
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms

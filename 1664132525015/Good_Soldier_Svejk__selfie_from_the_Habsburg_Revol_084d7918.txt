@@ -1,0 +1,10 @@
+Good Soldier Svejk, selfie from the Habsburg Revolution, War Photography
+Width: 512
+Height: 512
+Seed: 423138
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms

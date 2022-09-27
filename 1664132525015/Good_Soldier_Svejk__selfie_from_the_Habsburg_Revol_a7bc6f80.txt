@@ -1,0 +1,10 @@
+Good Soldier Svejk, selfie from the Habsburg Revolution, Funny, by Disney Animation Studios
+Width: 512
+Height: 512
+Seed: 1521365
+Steps: 20
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms

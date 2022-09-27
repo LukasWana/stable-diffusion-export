@@ -1,0 +1,10 @@
+Beautiful teen girl, face like angel, bow head, close eyes, blond hair blowing in the wind____serious expression. Forest, winter, cold, snowstorm, realistic face, ultra detailed, moody rim lighting, diffuse lighting, realistic colors —testp —ar 9:21
+Width: 512
+Height: 768
+Seed: 9952321
+Steps: 50
+Guidance Scale: 6.4
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: ddim

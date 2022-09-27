@@ -1,0 +1,10 @@
+a vibrant professional studio portrait photography, beautiful woman natural tits in lingerie hands under the body, portrait, A film still from HOT SHOTS movie
+Width: 768
+Height: 512
+Seed: 7960722
+Steps: 100
+Guidance Scale: 50.0
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: lms

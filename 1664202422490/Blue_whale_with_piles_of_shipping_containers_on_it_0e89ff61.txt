@@ -1,0 +1,10 @@
+Blue whale with piles of shipping containers on its back, bottom to top view, cgsociety artstation trending 4k
+Width: 1024
+Height: 1024
+Seed: 1514571
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms

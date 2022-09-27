@@ -1,0 +1,10 @@
+photo of a man in a dark cloak from behind, in front of a wall with a prismatic plasma circle on it, (((sofa))),fractal flame, fractalism, hoodie, table, fractal carpet,detailed,iridescent,cyberpunk, wide angle lens, brick wall,transdimensional portal,octane render, 8k uhd
+Width: 512
+Height: 512
+Seed: 6794411
+Steps: 150
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms

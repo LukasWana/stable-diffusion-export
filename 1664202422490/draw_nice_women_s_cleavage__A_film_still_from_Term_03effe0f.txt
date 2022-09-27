@@ -1,0 +1,10 @@
+draw nice women's cleavage, A film still from Terminator movie
+Width: 512
+Height: 512
+Seed: 9483485
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: euler_a

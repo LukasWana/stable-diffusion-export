@@ -1,0 +1,10 @@
+a vibrant professional studio portrait photography, beautiful woman DMT spirit of nature hands under the body, portrait, A film still from HOT SHOTS movie
+Width: 768
+Height: 512
+Seed: 9963727
+Steps: 100
+Guidance Scale: 20.2
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: lms

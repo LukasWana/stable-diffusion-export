@@ -1,0 +1,10 @@
+a horse is sitting on its butt in a meadow, fireflies and butterflies fly around, sun rise,  4k, detailed, trending in artstation, fantasy vivid colors”
+Width: 768
+Height: 512
+Seed: 5807834
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: lms

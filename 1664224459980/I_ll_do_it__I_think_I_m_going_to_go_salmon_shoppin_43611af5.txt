@@ -1,0 +1,11 @@
+I'll do it: I think I'm going to go salmon shopping.
+Mojmir: I'm going to throw a salmon because we're not home yet. Real photo
+Width: 768
+Height: 512
+Seed: 3314914
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: euler_a

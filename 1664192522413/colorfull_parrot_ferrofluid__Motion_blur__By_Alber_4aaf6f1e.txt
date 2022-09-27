@@ -1,0 +1,10 @@
+colorfull parrot ferrofluid. Motion blur. By Alberto Seveso. Bokeh. Depth of focus. Sharp focus. Tilt shift. Macrophotography. 4K. 8K. HDR. Postprocessed. Volumetric lighting
+Width: 768
+Height: 1024
+Seed: 6078336
+Steps: 64
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms

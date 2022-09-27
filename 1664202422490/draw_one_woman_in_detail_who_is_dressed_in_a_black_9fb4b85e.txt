@@ -1,0 +1,10 @@
+draw one woman in detail who is dressed in a black leather evening dress, A film still from Skyfall movie
+Width: 1024
+Height: 512
+Seed: 4998311
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms

@@ -1,0 +1,10 @@
+a horse sitting on its butt in a meadow, 4k, detailed, trending in artstation, fantasy vivid colors”
+Width: 768
+Height: 512
+Seed: 6093957
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: euler_a

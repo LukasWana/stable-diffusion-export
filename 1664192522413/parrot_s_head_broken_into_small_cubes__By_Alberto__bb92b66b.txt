@@ -1,0 +1,10 @@
+parrot's head broken into small cubes. By Alberto Seveso. Bokeh. Depth of focus. Sharp focus. Tilt shift. 4K. 8K. HDR. Postprocessed. Volumetric lighting
+Width: 1024
+Height: 512
+Seed: 5100976
+Steps: 64
+Guidance Scale: 26.7
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms

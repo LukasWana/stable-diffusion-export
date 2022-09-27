@@ -1,0 +1,10 @@
+a home for all the critters of the forest, big tree, tall , lush , calm , book cover , ultra realistic , 4k , 8k
+Width: 768
+Height: 512
+Seed: 8609048
+Steps: 50
+Guidance Scale: 6.4
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: ddim

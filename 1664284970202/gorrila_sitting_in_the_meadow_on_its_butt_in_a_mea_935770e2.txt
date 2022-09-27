@@ -1,0 +1,10 @@
+gorrila sitting in the meadow on its butt in a meadow, fireflies and butterflies fly around, sun rise,  4k, detailed, by van gog
+Width: 768
+Height: 512
+Seed: 862021
+Steps: 50
+Guidance Scale: 6.4
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: ddim

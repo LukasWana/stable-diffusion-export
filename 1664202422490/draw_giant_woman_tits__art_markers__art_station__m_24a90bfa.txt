@@ -1,0 +1,10 @@
+draw giant woman tits, art markers, art station, modern draw
+Width: 1024
+Height: 1024
+Seed: 4621155
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: euler_a

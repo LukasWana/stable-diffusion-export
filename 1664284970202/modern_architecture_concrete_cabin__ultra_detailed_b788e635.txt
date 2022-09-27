@@ -1,0 +1,10 @@
+modern architecture concrete cabin, ultra detailed, moody rim lighting, diffuse lighting, realistic colors, 35mm
+Width: 768
+Height: 512
+Seed: 3321908
+Steps: 50
+Guidance Scale: 6.4
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: ddim
