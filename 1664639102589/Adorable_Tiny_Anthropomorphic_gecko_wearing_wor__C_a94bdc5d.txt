@@ -1,0 +1,17 @@
+Adorable Tiny Anthropomorphic gecko wearing wor, Cute Large Radiant Eyes, in an autumn redwood forest with a stream, raking sunlight, dappled sunshine, cinematic lighting, photo realistic, in the style of Pixar and Tim Burton
+
+
+
+
+
+
+Width: 512
+Height: 640
+Seed: 5435326
+Steps: 25
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: euler_a
+Negative Prompt: 

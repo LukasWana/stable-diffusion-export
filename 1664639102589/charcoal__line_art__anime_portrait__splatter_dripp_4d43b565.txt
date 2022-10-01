@@ -1,0 +1,15 @@
+charcoal, line art, anime portrait, splatter drippings, paper texture, beautiful female character in the style of [destiny] and [mass effect] wearing a intricate detailed casual outfit, gorgeous eyes, beautiful face, dynamic pose, intricate, elaborate, centered, in frame, dramatic lighting, perfect shading, stylize, as drawn by [russ mills, sakimichan, wlop, loish, artgerm, darek zabrocki, jean-baptiste monge
+
+
+
+
+Width: 640
+Height: 512
+Seed: 7154938
+Steps: 25
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 

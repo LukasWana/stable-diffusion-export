@@ -1,0 +1,14 @@
+cute fantasy snake looking out of a glass full of candy, high resolution, pixar style, magical lighting, 8k
+
+
+
+Width: 512
+Height: 640
+Seed: 6687372
+Steps: 25
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: euler_a
+Negative Prompt: 

@@ -1,0 +1,12 @@
+full face woman, long dreadlocks, perfect center composition, electric blue hair, Chyler Leigh, light make-up, nice forest in night background, cinematic, night photo, A film still from Avatar movie
+
+Width: 640
+Height: 512
+Seed: 6136799
+Steps: 25
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 
