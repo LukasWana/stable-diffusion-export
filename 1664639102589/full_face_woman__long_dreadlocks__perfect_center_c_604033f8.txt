@@ -1,0 +1,12 @@
+full face woman, long dreadlocks, perfect center composition, electric blue hair, Sara Ramirez, light make-up, night nice forest from avatar movie in background, cinematic, night photo, A film still from Avatar movie
+
+Width: 640
+Height: 512
+Seed: 5300280
+Steps: 32
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 

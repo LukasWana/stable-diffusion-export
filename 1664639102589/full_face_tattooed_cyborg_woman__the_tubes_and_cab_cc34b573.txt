@@ -1,0 +1,11 @@
+full face tattooed cyborg woman, the tubes and cables leading from her cyborg  head like long dreadlocks, perfect center composition, electric red hair, Sophia Loren, future hyper modern city in background, cinematic, real photo, 35mm
+Width: 640
+Height: 512
+Seed: 8567299
+Steps: 32
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 
