@@ -1,0 +1,13 @@
+full tattooed cyborg woman, electric blue hair, anthony hopkins, in the style of Artgerm, lunarpunk background, neon, cinematic, octane render
+
+, Happy
+Width: 512
+Height: 512
+Seed: 8567299
+Steps: 32
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 

@@ -1,0 +1,11 @@
+Miniature hobbit village in Glass Bottle, snowflakes and colorful lights, active HDR, art station trending
+Width: 512
+Height: 768
+Seed: 6307674
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 

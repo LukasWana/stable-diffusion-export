@@ -1,0 +1,13 @@
+a male European high school student reading a newspaper, in Czech watercolor, award-winning painting
+
+
+
+Width: 512
+Height: 768
+Seed: 412258
+Steps: 50
+Guidance Scale: 6.4
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: ddim

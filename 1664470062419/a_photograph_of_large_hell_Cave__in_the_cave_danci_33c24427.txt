@@ -1,0 +1,12 @@
+a photograph of large hell Cave, in the cave dancing skeletons,laser show,  video projection on the cave walls, real photo, fire light, 35mm
+
+Width: 960
+Height: 512
+Seed: 6493357
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 

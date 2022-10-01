@@ -1,0 +1,11 @@
+draw Anthropomorphic 1 elephant marvin work-overalls red color body is light violet color has one head, background scene black, highly detailed digital painting, whimsical lighting, Ilya Kuvshinov, WLOP, Stanley Artgerm Lau, Ruan Jia and Fenghua Zhong, trending on ArtStation, subtle muted cinematic colors, made in Maya, Blender and Photoshop, octane render, excellent composition, cinematic atmosphere, dynamic dramatic cinematic lighting, precise anatomy, aesthetic, very inspirational, arthouse
+Width: 512
+Height: 768
+Seed: 5653225
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 

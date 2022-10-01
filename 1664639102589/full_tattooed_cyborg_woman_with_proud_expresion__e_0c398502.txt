@@ -1,0 +1,14 @@
+full tattooed cyborg woman with proud expresion, electric blue hair, glowing eyes, christina hendricks, in the style of Artgerm, lunarpunk background, neon, cinematic, octane render
+
+
+, Funny, Happy
+Width: 512
+Height: 512
+Seed: 1338853
+Steps: 32
+Guidance Scale: 15.0
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 

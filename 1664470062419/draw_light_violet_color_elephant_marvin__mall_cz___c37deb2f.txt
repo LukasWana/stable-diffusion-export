@@ -1,0 +1,11 @@
+draw light violet color elephant marvin, mall.cz, comix style, red work overalls, at the side of the barcode reader, 3d render, pixar, hdr
+Width: 960
+Height: 960
+Seed: 8638117
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 

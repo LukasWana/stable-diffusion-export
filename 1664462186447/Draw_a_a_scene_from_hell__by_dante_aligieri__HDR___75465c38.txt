@@ -1,0 +1,11 @@
+Draw a a scene from hell, by dante aligieri, HDR, artsatation trending
+Width: 512
+Height: 768
+Seed: 7446950
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 

@@ -1,0 +1,14 @@
+teenager playing computer games in his cozy bedroom with a big window beside him at night, outside his window is a cyberpunk city, cyberpunk city, night time, as seen from a window, neon lights, photo-realistic, ultra detailed, ultra-wide, volumetric lighting, cinematic, photorealistic, 16k HDR rendering, vfx, ultra realistic, 8k, cinematic lightning, hyper realistic
+
+
+
+Width: 512
+Height: 512
+Seed: 7059904
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: euler
+Negative Prompt: 

@@ -1,0 +1,11 @@
+Miniature Worlds in Tiny Glass Bottles, snowflakes and colorful lights, active HDR, art station trending, color burst, matte, anemoia, radiant, cinematic lighting, decorated, embellished, wintercore, bloomcore, dreamcore, cozy fantasy, soft tones, insanely detailed, hypermaximalist, post production, PBR, Procreate, active HDR, VFX, SFX, NTX, zbrush, 3DCG, Soft Lighting, Ray Tracing Global Illumination, Crystalline, Lumen Reflections, retouched, refined, photo realistic, artistic aesthetic, depth, layered
+Width: 512
+Height: 768
+Seed: 7056489
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 

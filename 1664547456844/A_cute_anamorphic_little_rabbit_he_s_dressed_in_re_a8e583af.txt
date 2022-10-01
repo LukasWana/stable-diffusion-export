@@ -1,0 +1,11 @@
+A cute anamorphic little rabbit he's dressed in red patent leather, holding a flower. 4K, complex detail, Cinema, reality, detail, Octane rendering, stoic cinematic 4k epic detailed 4k epic detailed photograph shot on kodak detailed bokeh cinematic hbo dark moody 8k --ar 10:16 --test
+Width: 512
+Height: 512
+Seed: 4591408
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 

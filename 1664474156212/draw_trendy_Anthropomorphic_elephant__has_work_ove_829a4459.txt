@@ -1,0 +1,11 @@
+draw trendy Anthropomorphic elephant, has work-overalls, black background scene, highly detailed digital painting, hyperrealistic, concept art, smooth, sharp focus, illustration, , whimsical lighting, By Greg Rutkowski, Ilya Kuvshinov, WLOP, Stanley Artgerm Lau, Ruan Jia and Fenghua Zhong, trending on ArtStation, subtle muted cinematic colors, made in Maya, Blender and Photoshop, octane render, excellent composition, cinematic atmosphere, dynamic dramatic cinematic lighting, precise correct anatomy, aesthetic, very inspirational, arthouse
+Width: 512
+Height: 960
+Seed: 6755878
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 

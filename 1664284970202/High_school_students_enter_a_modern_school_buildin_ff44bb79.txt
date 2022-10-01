@@ -1,0 +1,13 @@
+High school students enter a modern school building, doors open with a chip, autumn mood and weather, in modern watercolor, award-winning painting
+
+
+
+Width: 256
+Height: 128
+Seed: 7607059
+Steps: 50
+Guidance Scale: 6.4
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: ddim

@@ -1,0 +1,11 @@
+The Barbeque in garden party, the snake slithers between the meat and the plates, pig meat, fork, drinks, flowers, pans, spoons, ladles, forks, knives, ultra-realistic, photorealistic, hyper detailed, volumetric lighting, hdr,8K, highly detailed, digital hyper realistic, real photo, sharp focus, cinematic, Aerial View
+Width: 768
+Height: 512
+Seed: 1549015
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: ddim
+Negative Prompt: 

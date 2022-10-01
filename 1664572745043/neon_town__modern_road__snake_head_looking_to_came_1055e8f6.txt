@@ -1,0 +1,11 @@
+neon town, modern road, snake head looking to camera, cars everywhere, ultra-realistic, photorealistic, hyper detailed, volumetric lighting, hdr,8K, highly detailed, real hyper realistic, real photo, sharp focus, cinematic
+Width: 512
+Height: 768
+Seed: 6977048
+Steps: 16
+Guidance Scale: 10.0
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: dpm2
+Negative Prompt: 

@@ -1,0 +1,11 @@
+The Killer pig make Barbeque in garden party, pig meat, butcher, ultra-realistic, photorealistic, octane render, hyper detailed, volumetric lighting, hdr,8K, highly detailed, digital hyper realistic, real photo, sharp focus, cinematic, Happy, Excited, Aerial View
+Width: 768
+Height: 512
+Seed: 1549016
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: ddim
+Negative Prompt: 

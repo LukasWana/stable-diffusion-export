@@ -1,0 +1,12 @@
+a photograph of an evil riding a fire horse in hell Caves, in the cave dancing skeletons, real photo, hdr, 35mm
+
+Width: 960
+Height: 512
+Seed: 6801826
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 

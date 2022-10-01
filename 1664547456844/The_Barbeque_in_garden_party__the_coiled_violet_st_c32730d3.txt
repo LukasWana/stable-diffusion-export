@@ -1,0 +1,11 @@
+The Barbeque in garden party, the coiled violet-stripped-green large snake. snake looking into the camera. ultra-realistic, photorealistic, hyper detailed, volumetric lighting, hdr,8K, highly detailed, real hyper realistic, real photo, sharp focus, cinematic
+Width: 768
+Height: 512
+Seed: 1549015
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: dpm2
+Negative Prompt: 

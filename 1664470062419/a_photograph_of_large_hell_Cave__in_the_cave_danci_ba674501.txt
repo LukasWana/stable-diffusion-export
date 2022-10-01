@@ -1,0 +1,12 @@
+a photograph of large hell Cave, in the cave dancing skeletons, real photo, fire light, 35mm
+
+Width: 512
+Height: 768
+Seed: 5452811
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 

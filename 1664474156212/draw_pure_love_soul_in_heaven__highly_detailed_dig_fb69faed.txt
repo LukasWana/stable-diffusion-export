@@ -1,0 +1,11 @@
+draw pure love soul in heaven, highly detailed digital painting, hyperrealistic, concept art, smooth, sharp focus, illustration, art by Disney Pixar, whimsical lighting
+Width: 768
+Height: 512
+Seed: 6806395
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 

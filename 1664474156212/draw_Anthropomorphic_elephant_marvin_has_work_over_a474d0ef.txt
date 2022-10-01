@@ -1,0 +1,11 @@
+draw Anthropomorphic elephant marvin has work-overalls in red color body is light violet color has one head, black background scene, highly detailed digital painting, hyperrealistic, concept art, smooth, sharp focus, illustration, art by Disney Pixar, whimsical lighting, Ilya Kuvshinov, WLOP, Stanley Artgerm Lau, Ruan Jia and Fenghua Zhong, trending on ArtStation, subtle muted cinematic colors, made in Maya, Blender and Photoshop, octane render, excellent composition, cinematic atmosphere, dynamic dramatic cinematic lighting, precise anatomy, aesthetic, very inspirational, arthouse
+Width: 512
+Height: 960
+Seed: 6565544
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 

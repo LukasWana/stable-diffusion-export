@@ -1,0 +1,11 @@
+The boy friends make Barbeque in garden party, pig meat, The Killer pig , butcher, ultra-realistic, photorealistic, octane render, unreal engine, hyper detailed, volumetric lighting, hdr, octane render, fantasy, 8K, Intricate, highly detailed, digital hyper realistic, artstation, concept art, smooth, sharp focus, + uhd + 3d + octane render + cinematic, Happy, Excited
+Width: 512
+Height: 768
+Seed: 1549012
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: lms
+Negative Prompt: 

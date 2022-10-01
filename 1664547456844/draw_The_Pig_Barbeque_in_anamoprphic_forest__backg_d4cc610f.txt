@@ -1,0 +1,11 @@
+draw The Pig Barbeque in anamoprphic forest, background hyper detailed, highly detailed, digital painting, artstation, concept art, smooth, sharp focus,real photo, 35mm, art by artgerm and greg rutkowski, art staion trending, Neon, Warm Color Palette
+Width: 512
+Height: 512
+Seed: 7325347
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 

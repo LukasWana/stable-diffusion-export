@@ -1,0 +1,11 @@
+draw elephant MArvin, 3d render, pixar, hdr
+Width: 960
+Height: 512
+Seed: 5808126
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 

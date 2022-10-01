@@ -1,0 +1,11 @@
+Swarm technological worth, trending art station, small color, minimalistic, Detailed and Intricate, Dynamic Lighting
+Width: 512
+Height: 512
+Seed: 3696934
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 

@@ -1,0 +1,12 @@
+quaint hobbiton village inside a magical transparent jar, snowflakes and colorful lights, color burst, matte, anemoia, radiant, cinematic lighting, decorated, embellished, by Loré Pemberton, Helen Allingham, lucy grossmith, laivi põder, Sofia Goloubetski, soft tones, insanely detailed, hypermaximalist, post production, PBR, Procreate, active HDR, VFX, SFX, NTX, zbrush, 3DCG, Soft Lighting, Ray Tracing Global Illumination
+
+Width: 512
+Height: 768
+Seed: 6274961
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 

@@ -1,0 +1,11 @@
+draw Trendy Anthropomorphic elephant marvin wearing work overalls in red color body is light violet color, black background scene, highly detailed digital painting, hyperrealistic, concept art, smooth, sharp focus, illustration, art by Disney Pixar, whimsical lighting
+Width: 512
+Height: 960
+Seed: 7226422
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 

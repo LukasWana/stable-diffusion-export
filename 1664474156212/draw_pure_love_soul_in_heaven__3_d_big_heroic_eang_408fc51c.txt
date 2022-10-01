@@ -1,0 +1,11 @@
+draw pure love soul in heaven, 3 d big heroic eangle in the style of pixar, medium shot, studio ghibli, pixar and disney animation, sharp, rendered in unreal engine 5, anime key art by greg rutkowski, bloom, dramatic lighting
+Width: 768
+Height: 512
+Seed: 6428028
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 

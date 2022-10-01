@@ -1,0 +1,11 @@
+The boy friends make Barbeque in garden party, pig meat, The Killer pig , butcher, background hyper detailed, highly detailed, sharp focus, real photo, 35mm, hdr colors, Happy, Funny, Excited
+Width: 512
+Height: 768
+Seed: 1549019
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: lms
+Negative Prompt: 
