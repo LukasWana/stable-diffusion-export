@@ -1,0 +1,11 @@
+The blue up and yellow down one ukrain flag. true flag size. windy weather. 3 Ukrainian soldiers, covered faces behind black masks. true perspective.  high detailed painting, by art station trending, award winner, leonardo da vinci, Michelangelo, hdr, full detailed painting, Close-up, Fisheye Lens
+Width: 640
+Height: 512
+Seed: 5538038
+Steps: 25
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: ddim
+Negative Prompt: 

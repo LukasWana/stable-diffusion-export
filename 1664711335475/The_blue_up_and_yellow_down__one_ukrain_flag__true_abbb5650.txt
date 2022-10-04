@@ -1,0 +1,12 @@
+The blue up and yellow down. one ukrain flag. true flag size. windy weather, true perspective.  high detailed painting, by art station trending, award winner, leonardo da vinci, 
+Michelangelo, hdr, full detailed painting, Close-up
+Width: 640
+Height: 512
+Seed: 3630992
+Steps: 25
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: ddim
+Negative Prompt: 

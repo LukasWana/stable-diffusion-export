@@ -1,0 +1,11 @@
+people on the big mountain of gummy bears. isometric perspective. high detailed painting, award winner, hdr, full detailed painting, by michalangelo, Golden Hour, Close-up
+Width: 640
+Height: 512
+Seed: 5232932
+Steps: 25
+Guidance Scale: 7.5
+Prompt Strength: 0.81
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: ddim
+Negative Prompt: 

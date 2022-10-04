@@ -1,0 +1,11 @@
+unfolded face, the meat flies around, one eye on a nerve,  a piece of the skull is missing and you can see the brain, the facial anatomy is visible, the flesh falls off, sharp focus, wide shot, masterpiece, colorful, cinematic, environmental concept art, hdr colors, dreming bokeh
+Width: 448
+Height: 640
+Seed: 9411416
+Steps: 25
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: ddim
+Negative Prompt: 

@@ -1,0 +1,11 @@
+an astronaut flying in space, acid punk, ethereal, painted by artgerm, Akihiko yoshida, hq, hyperrealistic, Dot Art, Electric Colors, etching, Warm Color Palette, Pastel, Synthwave
+Width: 512
+Height: 640
+Seed: 8895164
+Steps: 25
+Guidance Scale: 5.0
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 

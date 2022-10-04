@@ -1,0 +1,11 @@
+flowers, nature, mandala, symetric
+Width: 512
+Height: 512
+Seed: 9411415
+Steps: 25
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: ddim
+Negative Prompt: 

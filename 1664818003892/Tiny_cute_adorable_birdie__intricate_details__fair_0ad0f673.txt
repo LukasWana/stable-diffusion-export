@@ -1,0 +1,14 @@
+Tiny cute adorable birdie, intricate details, fairytale Disney style forest, soft cinematic lighting, 8k, portrait, Pixar style character, pokemon anime style octane render, disney, like toystory movie
+
+
+
+Width: 512
+Height: 640
+Seed: 7363322
+Steps: 25
+Guidance Scale: 7.3
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: ddim
+Negative Prompt: 

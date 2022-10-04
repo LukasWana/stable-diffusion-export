@@ -1,0 +1,11 @@
+sculpture of a camel made of snow, sharp focus, wide shot, masterpiece, colorful, cinematic, environmental concept art, hdr colors, dreming bokeh, drawing
+Width: 640
+Height: 448
+Seed: 9411416
+Steps: 25
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: ddim
+Negative Prompt: 

@@ -1,0 +1,11 @@
+toltek, nature, mandala, symetric, 3d render, octane, high detailed
+Width: 640
+Height: 512
+Seed: 9411417
+Steps: 25
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 

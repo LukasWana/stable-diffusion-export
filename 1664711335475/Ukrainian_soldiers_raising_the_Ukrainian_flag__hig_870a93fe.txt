@@ -1,0 +1,11 @@
+Ukrainian soldiers raising the Ukrainian flag, high detailed painting, realism, bokeh
+Width: 640
+Height: 512
+Seed: 9411418
+Steps: 25
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: ddim
+Negative Prompt: 

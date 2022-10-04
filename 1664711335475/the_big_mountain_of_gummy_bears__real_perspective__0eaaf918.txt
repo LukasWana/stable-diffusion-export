@@ -1,0 +1,11 @@
+the big mountain of gummy-bears. real perspective. high detailed painting, award winner, full detailed painting, by michalangelo, Close-up
+Width: 640
+Height: 512
+Seed: 5232926
+Steps: 25
+Guidance Scale: 7.5
+Prompt Strength: 0.64
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: ddim
+Negative Prompt: 

@@ -1,0 +1,16 @@
+adorable happy cute feathery chicken with , big blue eyes, cartoons, Sanrio style, hyperdetailed photo, finely detailed, portrait lighting, artstation trending
+
+
+
+
+
+Width: 768
+Height: 512
+Seed: 6200482
+Steps: 25
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 

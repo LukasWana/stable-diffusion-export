@@ -1,0 +1,14 @@
+An enormous labyrinth, Beautiful architecture, Statues, Highly detailed carvings, Atmosphere, Dramatic lighting, Epic composition, Close up, Low angle, Wide angle, by Miyazaki, Nausicaa Ghibli, Nick Gindraux, Ryan Church
+
+
+
+Width: 768
+Height: 512
+Seed: 1985972
+Steps: 25
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 

@@ -1,0 +1,12 @@
+The urain large flag third of visible space. Strong wind, windy weather, large flag flies,
+high detailed painting, by Rembrandt
+Width: 512
+Height: 640
+Seed: 2581874
+Steps: 25
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: ddim
+Negative Prompt: black flag

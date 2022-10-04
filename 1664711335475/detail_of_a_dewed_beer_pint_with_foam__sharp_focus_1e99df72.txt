@@ -1,0 +1,11 @@
+detail of a dewed beer pint with foam, sharp focus, wide shot, trending on artstation, masterpiece, by greg rutkowski, by ross tran, by fenghua zhong, octane, soft render, oil on canvas, colorful, cinematic, environmental concept art
+Width: 384
+Height: 640
+Seed: 9411416
+Steps: 25
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: ddim
+Negative Prompt: 

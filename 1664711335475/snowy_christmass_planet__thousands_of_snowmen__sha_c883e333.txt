@@ -1,0 +1,11 @@
+snowy christmass planet, thousands of snowmen, sharp focus, wide shot, trending on artstation, masterpiece, octane, soft render, colorful, cinematic, environmental concept art, hdr colors, dreming bokeh, Aerial View
+Width: 640
+Height: 448
+Seed: 9411416
+Steps: 25
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: ddim
+Negative Prompt: 

@@ -1,0 +1,11 @@
+hyper future airship on sky. the big mountains of gummy-bears. view from the top into the valley. 3 villages in walley. one big water tank. real perspective. high detailed painting, award winner, detailed landscape, classical painted landscape, trending in artstation, in the style of studio ghibli, wlop, hdr, 8k artstation, Close-up
+Width: 640
+Height: 512
+Seed: 4488809
+Steps: 25
+Guidance Scale: 7.5
+Prompt Strength: 0.92
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: ddim
+Negative Prompt: 

@@ -1,0 +1,11 @@
+Colorful portrait photograph, ultra high detailed photograph of single natural Caucasian female model full body shot, sun princes, symmetrical pair eyes, ultra high detailed eyes, Photorealistic eyes, perfectly round iris, high facial symmetry, facing directly at camera, looking into camera, slim physique, award winning photography, 16k, photorealism, f/1.4, EYE-photo magazine, portrait photography, rule of three, golden ratio,elle, glamour, monovisions, helmut newton, ansel Adams, herb ritts, vogue, Intricate Ultra Detail,slow render, redshift rendered in maya, sharp jawline, cinematic gentle lighting, High contrast Details, High sharpness, tone mapping, high contrast, dark lips, thin eyebrows, long face,retouched, ambient occlusion, octane render, unreal 5 engine render, grand realism elegant zestful joyous unadorned, HDR, 
+Width: 896
+Height: 384
+Seed: 3522506
+Steps: 50
+Guidance Scale: 8.14
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: ddim
+Negative Prompt: 

@@ -1,0 +1,11 @@
+the mountains. view from the top into the valley. 3 villages in walley. the big water tank in front. sunshine, strands of light, rainbow, low low clouds. real perspective. high detailed painting, award winner, detailed landscape, classical painted landscape, trending in artstation, in the style of studio ghibli, wlop, hdr, 8k artstation, spirals pattern
+Width: 640
+Height: 512
+Seed: 4488806
+Steps: 25
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 

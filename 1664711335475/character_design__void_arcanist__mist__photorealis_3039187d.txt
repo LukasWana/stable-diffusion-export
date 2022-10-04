@@ -1,0 +1,11 @@
+character design, void arcanist, mist, photorealistic, octane render, unreal engine, hyper detailed, volumetric lighting, hdr.
+Width: 512
+Height: 640
+Seed: 4060318
+Steps: 25
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 

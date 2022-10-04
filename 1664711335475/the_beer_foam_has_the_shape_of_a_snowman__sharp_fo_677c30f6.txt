@@ -1,0 +1,11 @@
+the beer foam has the shape of a snowman, sharp focus, wide shot, trending on artstation, masterpiece, by greg rutkowski, by ross tran, by fenghua zhong, octane, soft render, colorful, cinematic, environmental concept art, hdr colors
+Width: 768
+Height: 512
+Seed: 9411418
+Steps: 25
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: ddim
+Negative Prompt: 
