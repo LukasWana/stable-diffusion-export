@@ -1,0 +1,11 @@
+a photograph of an waitress riding a horse, diorama, Aerial View
+Width: 768
+Height: 512
+Seed: 2595525
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 

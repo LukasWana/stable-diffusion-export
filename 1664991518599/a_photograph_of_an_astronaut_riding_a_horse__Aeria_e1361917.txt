@@ -1,0 +1,11 @@
+a photograph of an astronaut riding a horse, Aerial View
+Width: 640
+Height: 384
+Seed: 2595525
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: euler
+Negative Prompt: 

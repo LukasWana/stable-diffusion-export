@@ -1,0 +1,11 @@
+breathtakingly beautiful painting of albert einstein dressed as a disney genie, thinking about equations, moonlit sky, matte painting by brian froud, shaun tan, wlo and peter mohrbacher, highly detailed, intricate,, award winning artwork, trending on artstation, high quality printing, fine art 
+Width: 512
+Height: 768
+Seed: 104713
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 

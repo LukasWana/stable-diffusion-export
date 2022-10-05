@@ -1,0 +1,11 @@
+goddess close-up portrait goat skull. jellyfish phoenix head, nautilus, orchid, betta fish, bioluminiscent creatures, intricate artwork by Tooth Wu and wlop and beeple. octane render, symmetrical artwork, trending on artstation, greg rutkowski very coherent symmetrical artwork. cinematic, hyper realism, high detail, octane render, 8k
+Width: 640
+Height: 768
+Seed: 7728868
+Steps: 16
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 

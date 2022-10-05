@@ -1,0 +1,11 @@
+a photograph of an waitress, entrance to the restaurant in the background , minimal design style, by moebius, ayami kojima, amano,, greg hildebrandt,,, Aerial View
+Width: 576
+Height: 384
+Seed: 5302997
+Steps: 25
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: euler
+Negative Prompt: 

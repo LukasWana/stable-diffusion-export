@@ -1,0 +1,11 @@
+breathtakingly beautiful painting of An anthropomorphic beautiful female alien, beautiful cleavage, wizard portrait holding a bong wearing batik robe, fine art, award winning, intricate, real life skin, intricate, high detailed, artstation, concept art, smooth, sharp focus, art by Leonardo da Vinci
+Width: 512
+Height: 640
+Seed: 2318002
+Steps: 50
+Guidance Scale: 6.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: ddim
+Negative Prompt: 

@@ -1,0 +1,11 @@
+breathtakingly beautiful painting of donald duck disney dressed as a disney genie, thinking about equations, moonlit sky, minimal design armor style, by moebius, alphonse mucha, ayami kojima, amano,, greg hildebrandt,, and mark brooks, feminine, female, seductive, art nouveau, cyberpunk, neo - gothic, gothic, character concept design, Close-up
+Width: 512
+Height: 640
+Seed: 104722
+Steps: 32
+Guidance Scale: 6.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 
