@@ -1,0 +1,12 @@
+town a panorama, hr giger,  2D game sprites, detail perfect, ambient lights, poem poetic style, art station awward winning style, pixel design
+Width: 1024
+Height: 320
+Seed: 8456811
+Steps: 40
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: None
+Use Upscaling: None
+Sampler: euler_a
+Negative Prompt: 
+Stable Diffusion Model: c:\stable-diffusion\stable-dif2\stable-diffusion\sd-v1-4.ckpt

@@ -1,0 +1,12 @@
+the dark hallway, made entirely of stone, stretches into a black void. The dripping of water is heard as condensation escapes from in between the stones and into muddy puddles on the wet floor.
+Width: 704
+Height: 448
+Seed: 7284681
+Steps: 25
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: euler_a
+Negative Prompt: 
+Stable Diffusion Model: c:\stable-diffusion\stable-dif2\stable-diffusion\sd-v1-4.ckpt

@@ -1,0 +1,12 @@
+mak super hero, super woman
+Width: 1024
+Height: 320
+Seed: 9096234
+Steps: 25
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: None
+Use Upscaling: None
+Sampler: ddim
+Negative Prompt: 
+Stable Diffusion Model: c:\stable-diffusion\stable-dif2\stable-diffusion\sd-v1-4.ckpt

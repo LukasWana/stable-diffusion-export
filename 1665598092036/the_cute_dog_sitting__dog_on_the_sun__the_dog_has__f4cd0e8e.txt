@@ -1,0 +1,12 @@
+the cute dog sitting, dog on the sun, the dog has one tail, the dog has four, intricate artwork by Tooth Wu and wlop and beeple. octane render, trending on artstation, greg rutkowski very coherent symmetrical artwork. cinematic, hyper realism, high detail, octane render, 8k
+Width: 960
+Height: 512
+Seed: 9082865
+Steps: 25
+Guidance Scale: 7.6
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: euler_a
+Negative Prompt: 
+Stable Diffusion Model: c:\stable-diffusion\stable-dif2\stable-diffusion\sd-v1-4.ckpt
