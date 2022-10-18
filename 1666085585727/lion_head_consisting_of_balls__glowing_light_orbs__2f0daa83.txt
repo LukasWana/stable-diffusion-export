@@ -1,0 +1,12 @@
+lion head consisting of balls, glowing light orbs, intricate concept art, elegant, digital painting, smooth, sharp focus, ethereal opalescent mist, jellyfish phoenix head, nautilus, orchid, skull, betta fish, bioluminiscent creatures, intricate artwork by tooth wu and wlop and beeple. octane render, trending on artstation, greg rutkowski very coherent symmetrical artwork. cinematic, hyper realism, high detail, octane render, 8k
+Width: 704
+Height: 512
+Seed: 3315117
+Steps: 25
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: euler_a
+Negative Prompt: 
+Stable Diffusion Model: c:\stable-diffusion\stable-dif2\stable-diffusion\sd-v1-4.ckpt

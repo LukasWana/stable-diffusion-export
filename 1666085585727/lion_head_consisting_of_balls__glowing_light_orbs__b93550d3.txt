@@ -1,0 +1,12 @@
+lion head consisting of balls, glowing light orbs, intricate concept art, elegant, digital painting, smooth, sharp focus, ethereal opalescent mist, outrun, vaporware, cyberpunk darksynth, ethereal, ominous, misty, 8 k, by ruan jia and miho hirano, 8 k, rendered in octane
+Width: 704
+Height: 512
+Seed: 2901159
+Steps: 25
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: euler_a
+Negative Prompt: 
+Stable Diffusion Model: c:\stable-diffusion\stable-dif2\stable-diffusion\sd-v1-4.ckpt
