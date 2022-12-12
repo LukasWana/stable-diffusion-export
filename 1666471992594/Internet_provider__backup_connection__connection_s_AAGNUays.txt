@@ -1,0 +1,12 @@
+Internet provider, backup connection, connection security, advertisment, attractions portrait, art nature, fantasy, intricate art deco techno designs, elegant, highly detailed fractals, sharp focus, fractal big top, art fine art, award winning, intricate, elegant, sharp focus, octane render, hyperrealistic, cinematic lighting, highly detailed, digital painting, 8 k concept art, art by jamie hewlett and z. w. gu, masterpiece, trending on artstation, 8 k
+Width: 704
+Height: 704
+Seed: 8181833
+Steps: 25
+Guidance Scale: 7.0
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: dpm2_a
+Negative Prompt: 
+Stable Diffusion Model: c:\stable-diffusion\stable-dif2\stable-diffusion\sd-v1-4.ckpt

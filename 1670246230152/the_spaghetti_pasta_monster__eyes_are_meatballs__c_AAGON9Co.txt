@@ -1,0 +1,13 @@
+the spaghetti pasta monster, eyes are meatballs, character portrait,
+Width: 512
+Height: 512
+Seed: 1792111
+Steps: 45
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 
+Stable Diffusion model: c:\stable-diffusion\stable-dif2\stable-diffusion\sd-v1-4.ckpt
+VAE model: None

@@ -1,0 +1,13 @@
+And when he gets mad, He's a terrible monster
+Width: 512
+Height: 704
+Seed: 5808902
+Steps: 25
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 
+Stable Diffusion model: c:\stable-diffusion\stable-dif2\stable-diffusion\sd-v1-4.ckpt.ckpt
+VAE model: None

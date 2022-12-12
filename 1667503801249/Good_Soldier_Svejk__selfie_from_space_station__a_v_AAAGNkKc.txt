@@ -1,0 +1,12 @@
+Good Soldier Svejk, selfie from space station, a vibrant professional studio portrait photography, beautiful woman DMT spirit of nature hands under the body, portrait, A film still from HOT SHOTS movie, Funny
+Width: 640
+Height: 320
+Seed: 9472089
+Steps: 25
+Guidance Scale: 7.0
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 
+Stable Diffusion Model: c:\stable-diffusion\stable-dif2\stable-diffusion\sd-v1-4.ckpt

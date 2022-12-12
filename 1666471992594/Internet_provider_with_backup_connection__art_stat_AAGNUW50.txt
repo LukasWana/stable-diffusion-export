@@ -1,0 +1,12 @@
+Internet provider with backup connection, art station winner contest, best design, pure details, sharp focus, wide shot, cinematic
+Width: 768
+Height: 512
+Seed: 9837623
+Steps: 25
+Guidance Scale: 7.0
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: RealESRGAN_x4plus
+Sampler: dpm2_a
+Negative Prompt: 
+Stable Diffusion Model: c:\stable-diffusion\stable-dif2\stable-diffusion\sd-v1-4.ckpt

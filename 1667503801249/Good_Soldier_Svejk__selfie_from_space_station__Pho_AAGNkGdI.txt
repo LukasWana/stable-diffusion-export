@@ -1,0 +1,12 @@
+Good Soldier Svejk, selfie from space station, Photoshoot, Angry, Funny
+Width: 512
+Height: 512
+Seed: 9472082
+Steps: 50
+Guidance Scale: 7.6
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 
+Stable Diffusion Model: c:\stable-diffusion\stable-dif2\stable-diffusion\sd-v1-4.ckpt

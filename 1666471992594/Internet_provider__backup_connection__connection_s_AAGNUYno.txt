@@ -1,0 +1,12 @@
+Internet provider, backup connection, connection security, advertisment, best design, sharp details, sharp focus,  highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by wlop, mars ravelo and greg rutkowski
+Width: 704
+Height: 704
+Seed: 3415953
+Steps: 25
+Guidance Scale: 7.0
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: dpm2_a
+Negative Prompt: 
+Stable Diffusion Model: c:\stable-diffusion\stable-dif2\stable-diffusion\sd-v1-4.ckpt

@@ -1,0 +1,12 @@
+Internet provider, backup connection, connection security, advertisment, by kenne gregoire, james jean, tran nguyen, wlop, jakub rebelka. trending on artstation, 8k, masterpiece, face enhance, graffiti paint, fine detail, full of color, intricate detail, golden ratio illustration
+Width: 704
+Height: 704
+Seed: 2953852
+Steps: 25
+Guidance Scale: 7.0
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: dpm2_a
+Negative Prompt: 
+Stable Diffusion Model: c:\stable-diffusion\stable-dif2\stable-diffusion\sd-v1-4.ckpt

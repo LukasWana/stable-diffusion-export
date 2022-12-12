@@ -1,0 +1,12 @@
+head of Sacred bull, award winning modern profi illustration logo
+Width: 640
+Height: 640
+Seed: 786507
+Steps: 75
+Guidance Scale: 7.5
+Prompt Strength: 0.7
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: euler_a
+Negative Prompt: 
+Stable Diffusion Model: c:\stable-diffusion\stable-dif2\stable-diffusion\sd-v1-4.ckpt

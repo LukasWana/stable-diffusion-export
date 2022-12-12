@@ -1,0 +1,12 @@
+Internet provider with backup connection, connection security, advertisment, best design, sharp details, scify art, sharp focus, connection security, cinematic
+Width: 704
+Height: 704
+Seed: 7393540
+Steps: 25
+Guidance Scale: 7.0
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: dpm2_a
+Negative Prompt: 
+Stable Diffusion Model: c:\stable-diffusion\stable-dif2\stable-diffusion\sd-v1-4.ckpt

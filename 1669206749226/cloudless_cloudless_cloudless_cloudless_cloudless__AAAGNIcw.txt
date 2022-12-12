@@ -1,0 +1,13 @@
+cloudless cloudless cloudless cloudless cloudless color image.  empty grassy plain, clear blue sky, contrast. surreal, photograph, perspective
+Width: 1280
+Height: 768
+Seed: 3479415
+Steps: 25
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: None
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 
+Stable Diffusion model: c:\stable-diffusion\stable-dif2\stable-diffusion\sd-v1-4.ckpt
+VAE model: None

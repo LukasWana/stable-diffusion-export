@@ -1,0 +1,12 @@
+Internet provider, backup connection, connection security, advertisment, attractions portrait, art nature made of fractals, extremly detailed digital painting, in the style of android jones, artwork of a futuristic artificial intelligence superstar, mystical colors, rim light, beautiful lighting, 8k, stunning scene, raytracing, octane, under water visual distortion, trending on artstation
+Width: 704
+Height: 704
+Seed: 3974061
+Steps: 25
+Guidance Scale: 7.0
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: dpm2_a
+Negative Prompt: 
+Stable Diffusion Model: c:\stable-diffusion\stable-dif2\stable-diffusion\sd-v1-4.ckpt

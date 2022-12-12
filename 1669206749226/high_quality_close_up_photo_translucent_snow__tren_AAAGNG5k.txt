@@ -1,0 +1,13 @@
+high quality close-up photo translucent snow, trending on artstation, volumetric lighting, HDR
+Width: 1280
+Height: 768
+Seed: 7546465
+Steps: 25
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: None
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 
+Stable Diffusion model: c:\stable-diffusion\stable-dif2\stable-diffusion\sd-v1-4.ckpt
+VAE model: None

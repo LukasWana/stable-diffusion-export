@@ -1,0 +1,13 @@
+astronaut feeding chickens
+Width: 768
+Height: 512
+Seed: 6965027
+Steps: 25
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 
+Stable Diffusion model: c:\stable-diffusion\stable-dif2\stable-diffusion\sd-v1-4.ckpt.ckpt
+VAE model: None

@@ -1,0 +1,12 @@
+head of mystery bull, award winning modern profi illustration logo
+Width: 512
+Height: 640
+Seed: 8847680
+Steps: 25
+Guidance Scale: 7.0
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: euler_a
+Negative Prompt: 
+Stable Diffusion Model: c:\stable-diffusion\stable-dif2\stable-diffusion\sd-v1-4.ckpt

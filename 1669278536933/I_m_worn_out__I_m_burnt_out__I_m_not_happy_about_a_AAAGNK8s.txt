@@ -1,0 +1,13 @@
+I'm worn out, I'm burnt out, I'm not happy about anything, I'm numb, I'm not moved by even the biggest hit, I'm pissed off and I'm scared, and I'm scared to admit it, I'm scared of doing something that's going on in my head, I'm scared of messing everything up, I'm scared it won't get better, I'm numb from the pain, I'm not dealing with the general intellectual misery and moral decay anymore, if you don't ask I'm not saying anything.
+Width: 512
+Height: 512
+Seed: 503835
+Steps: 25
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: None
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 
+Stable Diffusion model: c:\stable-diffusion\stable-dif2\stable-diffusion\sd-v1-4.ckpt
+VAE model: None

@@ -1,0 +1,12 @@
+elvira by yusuke murata climbs the tree of life, makoto shinkai, ross tran, cosmic, intricate detail, cinematic, 8 k, cel shaded, unreal engine, featured on artstation, pixiv
+Width: 512
+Height: 640
+Seed: 9116852
+Steps: 25
+Guidance Scale: 7.0
+Prompt Strength: 0.66
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: ddim
+Negative Prompt: 
+Stable Diffusion Model: c:\stable-diffusion\stable-dif2\stable-diffusion\sd-v1-4.ckpt

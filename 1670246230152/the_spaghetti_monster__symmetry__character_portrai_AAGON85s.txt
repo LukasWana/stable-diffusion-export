@@ -1,0 +1,13 @@
+the spaghetti monster, symmetry, character portrait, beautiful face, full body, dramatic, volumetric, cinematic lighting, 8k, trending on artstation, masterpiece, by greg rutkowski, by ross tran, by fenghua zhong, octane, soft render, oil on canvas, colorful, cinematic, environmental concept art
+Width: 512
+Height: 512
+Seed: 6541878
+Steps: 45
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 
+Stable Diffusion model: c:\stable-diffusion\stable-dif2\stable-diffusion\sd-v1-4.ckpt
+VAE model: None

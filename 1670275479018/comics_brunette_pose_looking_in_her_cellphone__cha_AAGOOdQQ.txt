@@ -1,0 +1,13 @@
+comics brunette pose looking in her cellphone, character portrait, full body, dramatic bacground mountain, volumetric, cinematic lighting, 8k, trending on artstation, masterpiece, by realistic digital art, soft render, oil on canvas, colorful, cinematic
+Width: 768
+Height: 1024
+Seed: 2152740
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 
+Stable Diffusion model: c:\stable-diffusion\stable-dif2\stable-diffusion\sd-v1-4.ckpt
+VAE model: None

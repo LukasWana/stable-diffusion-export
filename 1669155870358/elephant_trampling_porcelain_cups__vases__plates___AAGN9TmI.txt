@@ -1,0 +1,13 @@
+elephant trampling porcelain cups, vases, plates, lots of broken porcelain around the elephant
+Width: 640
+Height: 512
+Seed: 1617334
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 
+Stable Diffusion model: c:\stable-diffusion\stable-dif2\stable-diffusion\sd-v1-4.ckpt
+VAE model: None

@@ -1,0 +1,12 @@
+a view of a street in Bio-tech Organic-stone architecture, a vibrant professional art, DMT spirit of nature, cinematic lighting, hyper detailed, classical painted landscape, trending in artstation, 8k
+Width: 640
+Height: 320
+Seed: 5624586
+Steps: 50
+Guidance Scale: 20.0
+Prompt Strength: 0.8
+Use Face Correction: GFPGANv1.3
+Use Upscaling: None
+Sampler: plms
+Negative Prompt: 
+Stable Diffusion Model: c:\stable-diffusion\stable-dif2\stable-diffusion\sd-v1-4.ckpt
